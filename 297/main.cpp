@@ -1,5 +1,5 @@
 #include <iostream>
-#include "Codec.cpp"
+#include "Codec.h"
 
 using namespace std;
 
