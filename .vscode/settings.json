@@ -31,6 +31,7 @@
         "iterator": "cpp",
         "__tree": "cpp",
         "bitset": "cpp",
-        "utility": "cpp"
+        "utility": "cpp",
+        "algorithm": "cpp"
     }
 }
