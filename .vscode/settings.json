@@ -32,6 +32,8 @@
         "__tree": "cpp",
         "bitset": "cpp",
         "utility": "cpp",
-        "algorithm": "cpp"
+        "algorithm": "cpp",
+        "ratio": "cpp",
+        "random": "cpp"
     }
 }
