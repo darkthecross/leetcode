@@ -44,6 +44,10 @@
         "__locale": "cpp",
         "ios": "cpp",
         "__bit_reference": "cpp",
-        "chrono": "cpp"
+        "chrono": "cpp",
+        "__functional_03": "cpp",
+        "functional": "cpp",
+        "cmath": "cpp",
+        "complex": "cpp"
     }
 }
